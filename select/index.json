@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "雨の街路に夜光蟲",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-14T08:23:32.327374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨の街路に夜光蟲",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/01_雨の街路に夜光蟲_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雨の街路に夜光蟲",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/02_雨の街路に夜光蟲_米津玄師.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雨の街路に夜光蟲 - Ameno Gaironi Yakouchuu",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_雨の街路に夜光蟲_-_Ameno_Gaironi_Yakouchuu_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雨の街路に夜光蟲",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_雨の街路に夜光蟲_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨の街路に夜光蟲",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_雨の街路に夜光蟲_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "雨の街路に夜光蟲",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_雨の街路に夜光蟲_米津玄師.txt"
+    }
+  ]
+}
